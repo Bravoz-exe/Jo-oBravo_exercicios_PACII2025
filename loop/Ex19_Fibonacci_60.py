@@ -1,3 +1,4 @@
+
 # Primeiros 60 números de Fibonac... qualquercoisa
 
 a, b = 1, 1

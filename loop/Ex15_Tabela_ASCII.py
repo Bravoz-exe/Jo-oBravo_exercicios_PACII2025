@@ -1,3 +1,4 @@
+
 # Tabela ASCII de 20 em 20
 
 contador = 0

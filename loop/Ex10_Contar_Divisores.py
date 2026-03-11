@@ -1,3 +1,4 @@
+
 # Contar divisores
 
 num = int(input("Numero: "))

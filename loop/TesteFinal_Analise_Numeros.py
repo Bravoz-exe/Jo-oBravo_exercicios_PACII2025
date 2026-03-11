@@ -1,5 +1,6 @@
 
 
+
 while True:
     try:
         n = int(input("Introduza um número (1-30000): "))
@@ -45,5 +46,4 @@ for num in range(n, 0, -1):
         if op == "N":
             break
         contador10 = 0
-
 print("\n fim do programa.")

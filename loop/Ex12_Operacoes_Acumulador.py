@@ -1,3 +1,4 @@
+
 # Operações até N
 
 n = int(input("Numero: "))

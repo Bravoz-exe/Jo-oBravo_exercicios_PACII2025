@@ -1,3 +1,4 @@
+
 # Contar numeros perfeitos até N
 
 n = int(input("Ate que o numero: "))

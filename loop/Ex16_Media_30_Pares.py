@@ -1,3 +1,4 @@
+
 # Media de 30 números pares (1 a 50)
 
 soma = 0

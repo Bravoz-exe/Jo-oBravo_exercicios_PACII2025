@@ -1,3 +1,4 @@
+
 # Tabuada de um número
 
 num = int(input("Numero: "))
